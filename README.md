@@ -1,5 +1,6 @@
 # Color-Flipper
 
-Random Exercise from Internet
+Random Exercise
+- Generate random colors.
 
 https://mlmariscotes.github.io/Color-Flipper/hex.html
