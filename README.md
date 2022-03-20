@@ -1,6 +1,6 @@
 # Color-Flipper
 
-Random Exercise
+==Coding Exercise==
 - Generate random colors.
 
 - https://mlmariscotes.github.io/Color-Flipper/hex.html
